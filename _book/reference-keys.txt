@@ -25,6 +25,7 @@ fig:nice-figjapN2-6
 fig:nice-figjapN2-7
 fig:nice-figjapN2-8
 fig:nice-figN3
+purpose
 intro
 questions
 context-and-objectives
